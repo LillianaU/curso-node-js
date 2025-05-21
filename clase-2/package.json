@@ -15,6 +15,7 @@
     "nodemon": "^3.0.1"
   },
   "dependencies": {
+    "clase-2": "file:",
     "express": "4.18.2"
   }
 }

@@ -14,5 +14,8 @@
   },
   "eslintConfig": {
     "extends": "standard"
+  },
+  "dependencies": {
+    "curso-node": "file:"
   }
 }

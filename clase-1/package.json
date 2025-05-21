@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/midudev/curso-node-js#readme",
   "dependencies": {
+    "curso-node": "file:",
     "picocolors": "1.0.0"
   },
   "devDependencies": {
